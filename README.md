@@ -28,5 +28,8 @@ $ hadoop jar WikiIndex.jar TF_Position {inputPath} {outputPath1}
 $ hadoop jar WikiIndex.jar TF_DF_Position {outputPath1} {outputPath2}
 ```
 
+*{inputPath} is the path of Wikipedia corpus.
+ {outputPath} is the path of save files.*
+
 ### Visualization
 * Just realize the local visualization. Details see the report above.
