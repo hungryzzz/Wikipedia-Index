@@ -1,7 +1,7 @@
 # Wikipedia-Index
 
 ### Introduction
-* Project of Fudan University distributed system course.A distributed system of Wikipedia Index.
+* Project of distributed system course.A distributed system of Wikipedia Index.
 
 ### Usage
 **Connect to the cluster or run on the ubuntu installed hadoop.
